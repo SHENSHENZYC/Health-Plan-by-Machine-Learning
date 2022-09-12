@@ -1,4 +1,4 @@
-# Health-Plan-by-Machine-Learning
+# Health Plan by Machine Learning
 
 Leading Nutrition and Healthy Choice
 
